@@ -1,2 +1,11 @@
-# github-final-project
-Final Project: Part 1 - GitHub UI (Simple Interest Calculator)
+# Simple Interest Calculator
+
+A calculator that calculates simple interest given principal, annual rate of interest, and time period in years.
+
+## Formula
+Simple Interest = (Principal * Time * Rate) / 100
+
+Where:
+- **P** = Principal amount
+- **R** = Annual rate of interest
+- **T** = Time period in years
